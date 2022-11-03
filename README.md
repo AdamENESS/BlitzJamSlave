@@ -1,5 +1,7 @@
 # Generic-Blitz-Slave
- 
+All information about WHDLoad can be found at its website.
+http://www.whdload.de/
+
 Quick and Dirty Readme.
 
 To build this you require vasm68k_mot.
