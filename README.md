@@ -2,7 +2,7 @@
 All information about WHDLoad can be found at its website.
 http://www.whdload.de/
 
-Quick and Dirty Readme.
+## Quick and Dirty Readme.
 
 To build this you require vasm68k_mot.
 http://sun.hasenbraten.de/vasm/bin/rel/vasmm68k_mot_Win64.zip
