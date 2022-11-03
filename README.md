@@ -20,14 +20,19 @@ http://www.whdload.de/whdload/GenericKick14.lha
 Anyway, to modify it for your blitz program:
 ## Changes required
 These lines specify how many kb of ram you want to allocate.
+
 currently set to 2meg chip.
+
 Line 29: CHIPMEMSIZE	= $1ff000	;size of chip memory
+
 Line 30: FASTMEMSIZE	= $00000	;size of fast memory
 
 Lines 67 - 71:
+
 These are the text which appear as the splash for WHDload.
 
 Line 160:
+
 This is the Exe you want to load and run
 
 Also Jotd, has alot of slaves on his github, if you like 68k asm haha.
